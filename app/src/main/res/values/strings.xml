@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test _game</string>
+    <string name="url_path">URL: %s</string>
+    <string name="rightAns">Правильно: %d</string>
+    <string name="wrongtAns">Не правильно: %d</string>
+    <string name="totalScore">TOTAL: Right Ans = %d, Wrong Ans = %d</string>
+</resources>
